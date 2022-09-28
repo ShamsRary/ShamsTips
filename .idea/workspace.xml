@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c64d471-7ad4-4d5f-8207-457fecd78e93" name="Changes" comment="hgyguyff" />
+    <list default="true" id="1c64d471-7ad4-4d5f-8207-457fecd78e93" name="Changes" comment="hgyguyffguyguyg&#10;gjgoifhfoiuhf">
+      <change beforePath="$PROJECT_DIR$/Tips.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tips.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664382256869</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hgyguyffguyguyg">
+      <created>1664382492432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664382492432</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hgyguyffguyguyg&#10;gjgoifhfoiuhf">
+      <created>1664382551410</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664382551410</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hgyguyff" />
-    <option name="LAST_COMMIT_MESSAGE" value="hgyguyff" />
+    <MESSAGE value="hgyguyffguyguyg" />
+    <MESSAGE value="hgyguyffguyguyg&#10;gjgoifhfoiuhf" />
+    <option name="LAST_COMMIT_MESSAGE" value="hgyguyffguyguyg&#10;gjgoifhfoiuhf" />
   </component>
 </project>
