@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class class TIps {
+public class Tips {
     public static void main(String[] args)
     {
         System.out.println("Welocome user type a money value.");
