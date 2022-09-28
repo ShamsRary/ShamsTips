@@ -7,6 +7,8 @@ public class Tips {
 
         double money = input.nextDouble();
         System.out.println(money);
+        int dollars = (int) (money/1.0):
+        int money = (money / 1.0);
         int quarters = (int) (money / 0.25);
         money = (money % 0.25);
         // System.out.println("Quarters = " + quarters);
@@ -29,6 +31,8 @@ public class Tips {
         int coins = quarters + dimes + nickles + pennies;
 
         System.out.println("The min amount of coins are = " + coins);
+
+        System.out.println("Dollars = " + dollars);
 
         System.out.println("Quarters = " + quarters);
 
